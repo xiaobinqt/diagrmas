@@ -1,14 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T15:13:53.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="92qPl9UOfUcg5-e1QcaZ" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-25T15:17:06.071Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="WtttBF_RKHxqMCwOcN5f" version="17.2.1" type="github">
   <diagram id="4XvSbhawV3MiXkLEqnf2" name="Page-1">
     <mxGraphModel dx="1391" dy="762" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OVzzL2SM65j6UDz2gd-_-16" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;CLOSED&lt;/font&gt;" style="rounded=1;sketch=1;expand=1;fontSize=16;verticalAlign=middle;horizontal=1;fontStyle=0;align=center;labelPosition=center;verticalLabelPosition=middle;labelBackgroundColor=none;whiteSpace=wrap;html=1;shadow=0;glass=0;noLabel=0;portConstraintRotation=0;enumerate=0;fixDash=0;autosize=0;connectable=1;sketchStyle=rough;zigzagOffset=-1;strokeWidth=2;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="OVzzL2SM65j6UDz2gd-_-16" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;CLOSED&lt;/font&gt;" style="rounded=1;sketch=1;expand=1;fontSize=16;verticalAlign=middle;horizontal=1;fontStyle=0;align=center;labelPosition=center;verticalLabelPosition=middle;labelBackgroundColor=none;whiteSpace=wrap;html=1;shadow=0;glass=0;noLabel=0;portConstraintRotation=0;enumerate=0;fixDash=0;autosize=0;connectable=1;sketchStyle=rough;zigzagOffset=-1;strokeWidth=2;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="110" y="198" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVzzL2SM65j6UDz2gd-_-41" value="客户端&lt;br style=&quot;font-size: 20px;&quot;&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Georgia;fontColor=#1A1A1A;fontStyle=3;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="131.5" y="149" width="77" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="OVzzL2SM65j6UDz2gd-_-42" value="SYN_SENT" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;sketchStyle=rough;fontFamily=Comic Sans MS;fontSize=16;strokeColor=#d79b00;strokeWidth=2;fillColor=#ffcd28;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="110" y="258" width="120" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="OVzzL2SM65j6UDz2gd-_-43" value="ESTABLISHED" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;sketchStyle=rough;fontFamily=Comic Sans MS;fontSize=16;strokeColor=#82b366;strokeWidth=2;fillColor=#d5e8d4;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="110" y="420" width="120" height="165" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
