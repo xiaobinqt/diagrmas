@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T15:49:28.761Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="_S0MjxhoX3tP5jDIMh19" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-25T15:56:10.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="eatEcdjTb5H28JbDy0L2" version="17.2.1" type="github">
   <diagram id="4XvSbhawV3MiXkLEqnf2" name="Page-1">
     <mxGraphModel dx="1391" dy="762" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
         </mxCell>
         <mxCell id="OVzzL2SM65j6UDz2gd-_-65" value="ACK=1&lt;br&gt;ack number = server_ins+1&lt;br&gt;seq number = client_ins+1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Comic Sans MS;fontColor=#171A0A;" vertex="1" connectable="0" parent="OVzzL2SM65j6UDz2gd-_-64">
           <mxGeometry x="-0.4404" y="-4" relative="1" as="geometry">
-            <mxPoint x="42" y="21" as="offset" />
+            <mxPoint x="52" y="23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OVzzL2SM65j6UDz2gd-_-43" value="ESTABLISHED" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;sketchStyle=rough;fontFamily=Comic Sans MS;fontSize=16;strokeColor=#82b366;strokeWidth=2;fillColor=#d5e8d4;gradientColor=#97d077;" vertex="1" parent="1">
