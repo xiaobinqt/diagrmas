@@ -1,32 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T14:04:07.671Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="AlcKpnU8TYRIyHip95K6" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-25T15:05:34.687Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="DbmlM2gW-A4aWXazYwKM" version="17.2.1" type="github">
   <diagram id="4XvSbhawV3MiXkLEqnf2" name="Page-1">
-    <mxGraphModel dx="1636" dy="896" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1391" dy="762" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="B-Af8GYPoGsGqBhHn85I-1" value="&lt;span style=&quot;font-size: 16px&quot;&gt;客户端&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#B1E291;sketch=1;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
+        <mxCell id="OVzzL2SM65j6UDz2gd-_-17" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;fontFamily=Helvetica;fontSize=16;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="649" y="495" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B-Af8GYPoGsGqBhHn85I-1" value="&lt;span style=&quot;font-size: 16px&quot;&gt;客户端&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#B1E291;labelBackgroundColor=none;labelBorderColor=none;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="91" y="121" width="110" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="OVzzL2SM65j6UDz2gd-_-1" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
+        <mxCell id="OVzzL2SM65j6UDz2gd-_-1" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="176" width="66" height="83.66" as="geometry" />
         </mxCell>
         <mxCell id="OVzzL2SM65j6UDz2gd-_-4" value="&lt;b&gt;CLOSED&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="91" y="286" width="104" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="OVzzL2SM65j6UDz2gd-_-9" value="&lt;span style=&quot;font-size: 16px&quot;&gt;服务端&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#B1E291;sketch=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+        <mxCell id="OVzzL2SM65j6UDz2gd-_-9" value="&lt;span style=&quot;font-size: 16px&quot;&gt;服务端&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#B1E291;labelBackgroundColor=none;labelBorderColor=none;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="396" y="110" width="110" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="OVzzL2SM65j6UDz2gd-_-10" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
+        <mxCell id="OVzzL2SM65j6UDz2gd-_-10" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="415" y="165" width="66" height="83.66" as="geometry" />
         </mxCell>
         <mxCell id="OVzzL2SM65j6UDz2gd-_-11" value="&lt;b&gt;Listen&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="399" y="275" width="104" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="OVzzL2SM65j6UDz2gd-_-12" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="132" y="341" width="10" height="495" as="geometry" />
-        </mxCell>
-        <mxCell id="OVzzL2SM65j6UDz2gd-_-13" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="462" y="341" width="10" height="484" as="geometry" />
+        <mxCell id="OVzzL2SM65j6UDz2gd-_-16" value="ddd" style="rounded=1;sketch=1;expand=1;fontSize=16;verticalAlign=middle;horizontal=1;fontStyle=0;align=center;labelPosition=center;verticalLabelPosition=middle;labelBackgroundColor=none;whiteSpace=wrap;html=1;shadow=0;glass=0;noLabel=0;portConstraintRotation=0;enumerate=0;fixDash=0;autosize=0;" vertex="1" parent="1">
+          <mxGeometry x="572" y="341" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
