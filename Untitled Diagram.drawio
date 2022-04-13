@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T02:51:06.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="_C-Flb-NmyTp-fJb-lrc" version="17.4.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-13T04:44:08.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="dZQ1gC3GfuaZPnFHv-hk" version="17.4.3" type="github" pages="6">
   <diagram id="4XvSbhawV3MiXkLEqnf2" name="tcp三次握手">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -392,6 +392,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4cTA_IetwY9x_c4O6pS_-1" value="upstream" style="html=1;rounded=1;sketch=1;fontFamily=Comic Sans MS;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="590" y="90" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4cTA_IetwY9x_c4O6pS_-7" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;rounded=1;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="230" y="240" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4cTA_IetwY9x_c4O6pS_-8" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" edge="1" source="4cTA_IetwY9x_c4O6pS_-7" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
