@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-02T01:46:37.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="-u5ovLL1S2dOKVFQBkUq" version="17.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-13T02:20:58.296Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="eUfu-WxLRK1qqAGjrOHa" version="17.4.3" type="github" pages="5">
   <diagram id="4XvSbhawV3MiXkLEqnf2" name="tcp三次握手">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -287,12 +287,12 @@
             <mxPoint x="478" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7glHobjOAz2HBU6icr5p-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;sketch=1;" edge="1" parent="1" source="Z739gxO9CDD1cXpF5HEQ-14">
+        <mxCell id="7glHobjOAz2HBU6icr5p-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;sketch=1;" parent="1" source="Z739gxO9CDD1cXpF5HEQ-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="1160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7glHobjOAz2HBU6icr5p-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;sketch=1;" edge="1" parent="1">
+        <mxCell id="7glHobjOAz2HBU6icr5p-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;sketch=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="670" y="1057" as="targetPoint" />
             <mxPoint x="598" y="1057" as="sourcePoint" />
@@ -301,18 +301,26 @@
         <mxCell id="Z739gxO9CDD1cXpF5HEQ-14" value="&lt;span&gt;判断文章 issue 是否存在&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;sketch=1;fontFamily=Comic Sans MS;fontSize=16;strokeColor=#666666;strokeWidth=2;gradientColor=#b3b3b3;fillColor=#f5f5f5;" parent="1" vertex="1">
           <mxGeometry x="360" y="1007" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="7glHobjOAz2HBU6icr5p-2" value="不存在" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="7glHobjOAz2HBU6icr5p-2" value="不存在" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="478" y="1121" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7glHobjOAz2HBU6icr5p-3" value="新建 issue" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;perimeterSpacing=0;comic=0;shadow=0;sketch=1;gradientColor=#b3b3b3;fontSize=16;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="7glHobjOAz2HBU6icr5p-3" value="新建 issue" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;perimeterSpacing=0;comic=0;shadow=0;sketch=1;gradientColor=#b3b3b3;fontSize=16;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="420" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7glHobjOAz2HBU6icr5p-5" value="存在" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="7glHobjOAz2HBU6icr5p-5" value="存在" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="601" y="1030" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7glHobjOAz2HBU6icr5p-6" value="判断是否需要更新 issue?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;perimeterSpacing=0;comic=0;shadow=0;sketch=1;gradientColor=#b3b3b3;fontSize=16;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="7glHobjOAz2HBU6icr5p-6" value="判断是否需要更新 issue?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;perimeterSpacing=0;comic=0;shadow=0;sketch=1;gradientColor=#b3b3b3;fontSize=16;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="678" y="1029" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="h6XSgJ1zv3A1PbJay799" name="git 出现冲突原因">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
