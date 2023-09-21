@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T14:04:16.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="SdFvuWn5G8JWH7bQ0DJg" version="21.6.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-09-21T14:06:58.330Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="f1Fwqm1q6IFEN-4knu-U" version="21.6.1" type="github" pages="10">
   <diagram id="4XvSbhawV3MiXkLEqnf2" name="tcp三次握手">
     <mxGraphModel dx="1674" dy="758" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -627,14 +627,6 @@
         <mxCell id="8kg5k6t7JSMNUAV1w2Dm-9" value="操作系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="510" y="80" width="80" height="20" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="M8gp7D6fQ0YhykQiAGjP" name="[go]sync.map">
-    <mxGraphModel dx="1674" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
